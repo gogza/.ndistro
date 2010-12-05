@@ -1,2 +1,3 @@
 #Modules
+module mde node-jake
 module cloudhead vows
