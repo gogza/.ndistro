@@ -1,6 +1,5 @@
 #Modules
 module indexzero forever
 module visionmedia express
-module creationix haml-js
-
+module visionmedia jade
 
