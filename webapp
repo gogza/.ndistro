@@ -6,5 +6,6 @@ module indexzero forever
 #the following modules are required by forever
 module substack node-optimist
 module Marak colors.js
+module indexzero daemon.node
 
 
