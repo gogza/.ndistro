@@ -1,6 +1,10 @@
 #Modules
-module indexzero forever
 module visionmedia express
 module visionmedia jade
+
+module indexzero forever
+#the following modules are required by forever
 module substack node-optimist
+module Marak colors.js
+
 
