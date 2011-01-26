@@ -2,4 +2,5 @@
 module indexzero forever
 module visionmedia express
 module visionmedia jade
+module substack node-optimist
 
