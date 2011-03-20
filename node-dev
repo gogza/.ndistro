@@ -1,4 +1,6 @@
 #Modules
 module cloudhead vows
+module tmpvar jsdom
+module jeresig sizzle
 module assaf zombie
 
